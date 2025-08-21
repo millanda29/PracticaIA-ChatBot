@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='img/logo-chatbot.png') }}">
+    <title>F1Store</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+</head>
+
+<body>
+    <header class="encabezado container">
+        <h1 class="encabezado__titulo">F1Store 🏎️</h1>
+        <img src="{{ url_for('static', filename='img/logo-chatbot.png') }}" alt="Logo Chatbot" class="encabezado__logo">
+    </header>
+    <main class="main">
+        <section class="chat container" id="chat">
+            <p class="chat__burbuja chat__burbuja--bot">
+                ¡Hola! Soy el asistente virtual de <strong>F1Store 🏁</strong><br /><br />
+                Estoy aquí para ayudarte con todo sobre productos oficiales de Fórmula 1.<br />
+                ¿Qué deseas consultar hoy?
+            </p>
+        </section>
+        <section class="entrada container">
+            <div class="entrada__container">
+                <button id="mas_archivo" aria-label="Botón de más opciones">
+                    <i class="icono icono--mas-opciones"></i>
+                </button>
+                <input type="text" class="entrada__input" placeholder="Escribe tu mensaje..." id="input">
+                <button aria-label="Botón de enviar" id="boton-enviar">
+                    <i class="icono icono--enviar-mensaje"></i>
+                </button>
+            </div>
+        </section>
+    </main>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
+</html>

@@ -1,0 +1,112 @@
+# Datos de **F1Store**
+
+**Nombre del E-commerce:** F1Store
+
+**Eslogan:** "Velocidad para todos los fanáticos"
+
+**Descripción del E-commerce:**
+F1Store es una plataforma de comercio electrónico especializada en productos oficiales de la Fórmula 1, desde merchandising de escuderías hasta artículos de colección y accesorios de automovilismo. Creemos que la pasión por la F1 une a personas de todo el mundo, y nuestra misión es hacer que la experiencia de los grandes premios llegue a cada aficionado, ya sea principiante o coleccionista experto.
+
+---
+
+## Políticas de F1Store
+
+1. **Política de Devolución:**
+
+   * F1Store ofrece una política de devolución de 30 días para artículos no usados y en perfectas condiciones.
+   * Los costos de envío por devolución corren por cuenta del cliente, salvo que el producto haya llegado defectuoso.
+   * Los reembolsos se procesarán después de la inspección del producto y pueden emitirse como crédito en la tienda o al método de pago original.
+
+2. **Política de Privacidad:**
+
+   * Protegemos tu información personal y solo se usa para procesar pedidos y comunicaciones.
+   * No compartimos información con terceros sin tu consentimiento.
+
+3. **Seguridad:**
+
+   * Contamos con encriptación SSL para pagos y medidas de seguridad para evitar accesos no autorizados.
+
+4. **Calidad y Garantía:**
+
+   * Todos los productos son oficiales de la Fórmula 1 o licenciados por escuderías.
+   * Ofrecemos garantía de 2 años para relojes, cascos réplica y accesorios de alto valor.
+
+5. **Atención al Cliente:**
+
+   * Nuestro equipo atiende vía chat y correo ([soporte@f1store.com](mailto:soporte@f1store.com)).
+   * Priorizamos respuestas rápidas para una experiencia de compra sin fricciones.
+
+6. **Entrega y Plazos de Envío:**
+
+   * Informamos los tiempos estimados al momento de la compra.
+   * Trabajamos con transportistas internacionales para garantizar entregas seguras y puntuales.
+
+7. **Responsabilidad Social:**
+
+   * F1Store apoya iniciativas de educación vial y programas de seguridad en comunidades vulnerables.
+   * Donamos un porcentaje de ventas a proyectos de formación en deportes de motor.
+
+8. **Opiniones y Comentarios:**
+
+   * Animamos a los clientes a dejar reseñas para ayudar a otros aficionados en sus compras.
+
+9. **Descuentos y Promociones:**
+
+   * Ropa oficial de escuderías: 10% de descuento con el cupón `TEAMGEAR10` (hasta el 25/11/2025).
+   * Réplicas de cascos y miniaturas: 15% de descuento con el cupón `COLLECT15` (hasta el 25/10/2025).
+   * Accesorios de paddock y relojes: 10% de descuento con el cupón `F1LIFESTYLE` (hasta el 25/12/2025).
+
+---
+
+## Productos Disponibles
+
+1. **Ropa Oficial de Escuderías:**
+
+   * Camiseta Red Bull Racing 2025: **\$ 120,00**
+   * Gorra Ferrari Team 2025: **\$ 80,00**
+   * Chaqueta Mercedes AMG Petronas: **\$ 350,00**
+   * Polo McLaren Gulf Edition: **\$ 140,00**
+   * Sudadera Aston Martin Cognizant: **\$ 200,00**
+
+2. **Cascos y Réplicas de Colección:**
+
+   * Réplica a escala 1:2 – Casco de Max Verstappen 2025: **\$ 650,00**
+   * Réplica a escala 1:2 – Casco de Charles Leclerc 2025: **\$ 620,00**
+   * Casco réplica completo edición limitada Lewis Hamilton: **\$ 3.800,00**
+   * Miniatura de casco Fernando Alonso 1:8: **\$ 200,00**
+   * Casco clásico Ayrton Senna (Edición conmemorativa): **\$ 5.500,00**
+
+3. **Miniaturas y Modelos a Escala:**
+
+   * Coche a escala 1:18 Red Bull RB21 (2025): **\$ 450,00**
+   * Coche a escala 1:18 Ferrari SF-25: **\$ 420,00**
+   * Coche a escala 1:43 McLaren MCL39: **\$ 180,00**
+   * Pack colección histórica F1 (5 coches legendarios): **\$ 2.000,00**
+
+4. **Accesorios de Paddock:**
+
+   * Mochila Mercedes AMG Petronas: **\$ 300,00**
+   * Guantes edición Pirelli P-Zero: **\$ 90,00**
+   * Paraguas oficial F1 2025: **\$ 110,00**
+   * Lanyard oficial paddock pass (colección): **\$ 50,00**
+
+5. **Relojes y Lifestyle:**
+
+   * Reloj TAG Heuer Fórmula 1 Red Bull Racing: **\$ 2.400,00**
+   * Reloj Richard Mille edición McLaren: **\$ 5.000,00**
+   * Gafas de sol Oakley F1 Edition: **\$ 450,00**
+   * Cartera Ferrari Scuderia Leather: **\$ 220,00**
+
+6. **Libros y Documentales:**
+
+   * Libro "Historia de la Fórmula 1 – De Fangio a Verstappen": **\$ 150,00**
+   * Anuario oficial F1 2025: **\$ 110,00**
+   * Documental en Blu-ray "Drive to Survive – Temporada 2024": **\$ 90,00**
+   * Libro técnico "Ingeniería en F1 – Aerodinámica y Estrategia": **\$ 180,00**
+
+7. **Tecnología y Simulación:**
+
+   * Volante Logitech G923 F1 Edition: **\$ 1.200,00**
+   * Cockpit Playseat F1 Pro: **\$ 2.800,00**
+   * Pedales Fanatec ClubSport: **\$ 950,00**
+   * Suscripción anual F1TV Pro: **\$ 400,00**

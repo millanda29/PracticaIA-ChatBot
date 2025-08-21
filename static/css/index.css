@@ -1,0 +1,173 @@
+@import url(_reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    background: linear-gradient(to bottom, #000000, #C70039); /* Negro → Rojo F1 */
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    padding: 0 2rem;
+}
+
+@media screen and (min-width: 1400px) {
+    .container {
+        padding: 0 calc((100vw - 1200px) / 2);
+    }
+}
+
+.encabezado {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 5rem;
+    border-bottom: 2px solid #FF5733; /* Naranja-Rojo vibrante */
+    background-color: #111111;
+    padding: 0 1rem;
+}
+
+.encabezado__logo {
+    width: 70px;
+}
+
+.encabezado__titulo {
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: #FF5733; /* Marca F1 */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-grow: 1;
+}
+
+.chat {
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 10rem - 5rem);
+    scrollbar-width: none;
+    overflow-y: scroll;
+}
+
+.chat::-webkit-scrollbar {
+    display: none;
+}
+
+.chat__burbuja {
+    max-width: calc(100% - 3.5rem);
+    width: fit-content;
+    padding: 1.2rem 1.5rem;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    margin: 1.2rem 0;
+    position: relative;
+}
+
+@media screen and (min-width: 1400px){
+    .chat__burbuja {
+        max-width: 60%;
+    }
+}
+
+.chat__burbuja--bot {
+    background-color: #C70039; /* Burbuja rojo F1 */
+    font-weight: 500;
+}
+
+.chat__burbuja--bot::after {
+    content: "";
+    display: block;
+    height: 2.5rem;
+    width: 2.5rem;
+    position: absolute;
+    top: 0;
+    right: calc(-2.5rem - 1rem);
+    background-image: url(../img/icono-chatbot.png);
+    background-size: 2.5rem;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.chat__burbuja--usuario {
+    border: 1px solid #FF5733;
+    align-self: flex-end;
+    background-color: #222222; /* Fondo gris oscuro para usuario */
+}
+
+.chat__burbuja--usuario::before {
+    content: "";
+    display: block;
+    height: 2.5rem;
+    width: 2.5rem;
+    position: absolute;
+    top: 0;
+    left: calc(-2.5rem - 1rem);
+    background-image: url(../img/icono-perfil.png);
+    background-size: 2.5rem;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.entrada {
+    height: 8rem;
+    position: relative;
+    display: flex;
+    gap: 1rem;
+    justify-content: stretch;
+    align-items: center;
+    border-top: 2px solid #FF5733;
+    background-color: #111111;
+}
+
+.entrada__container {
+    display: flex;
+    gap: 0.8rem;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 0.8rem;
+    background-color: #1C1C1C;
+    border: 1px solid #FF5733;
+    border-radius: 4rem;
+}
+
+.entrada__input {
+    height: 4rem;
+    width: 100%;
+    background-color: transparent;
+    font-size: 1.25rem;
+    color: #FFFFFF;
+    padding-left: 15px;
+}
+
+.entrada__input::placeholder {
+    color: #BBBBBB;
+}
+
+.icono {
+    display: inline-block;
+    height: 4rem;
+    width: 4rem;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icono--enviar-mensaje {
+    background-image: url(../img/icono-enviar.png);
+    background-size: 2.5rem;
+    filter: brightness(0) invert(1); /* Para hacerlo blanco */
+}
+
+.icono--mas-opciones {
+    background-image: url(../img/icono-mas.png);
+    background-size: 2.5rem;
+    filter: brightness(0) invert(1);
+}
